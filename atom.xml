@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lonelyou.github.io</id>
+    <title>从化迪迦</title>
+    <updated>2022-10-27T21:51:14.746Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lonelyou.github.io"/>
+    <link rel="self" href="https://lonelyou.github.io/atom.xml"/>
+    <subtitle>风吹日晒，自由自在</subtitle>
+    <logo>https://lonelyou.github.io/images/avatar.png</logo>
+    <icon>https://lonelyou.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 从化迪迦</rights>
+    <entry>
+        <title type="html"><![CDATA[新的一天新的开始]]></title>
+        <id>https://lonelyou.github.io/post/1/</id>
+        <link href="https://lonelyou.github.io/post/1/">
+        </link>
+        <updated>2022-10-24T14:05:30.000Z</updated>
+    </entry>
+</feed>
